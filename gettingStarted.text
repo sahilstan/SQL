@@ -1,0 +1,7 @@
+Surrogate key - Key which has no relation with the real world
+Natural key - Key which has a relation with the real world
+
+Primary Key - used to identify each row in a table
+Foreign Key - used to relate the current table with other table
+
+Composite Key - created with 2 primary keys
